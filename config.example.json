@@ -1,0 +1,15 @@
+{
+  "socket": {
+    "device_id": "YOUR_DEVICE_ID",
+    "local_key": "YOUR_LOCAL_KEY",
+    "ip": "192.168.1.x"
+  },
+  "battery": {
+    "charge_off_at": 80,
+    "charge_on_at": 65,
+    "design_capacity_mwh": 0
+  },
+  "interval_seconds": 300,
+  "panel_port": 8899,
+  "auto_start_guard": true
+}
